@@ -18,23 +18,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-## Featured Projects 💻
-
-### [ParentLinkED](project_1_link)
-
-![Project 1 Screenshot](https://github.com/Vanceeky/Vanceeky/blob/main/parentlinked.png)
-
-ParentLinkED is a web portal designed for La Salette School, allowing instructors to monitor students' grades, attendance, and communicate directly with them. The platform includes features for posting announcements, managing sections and subjects, and facilitating messaging between instructors and students, enhancing the overall academic experience. You can check out the repository [here](https://github.com/Vanceeky/ParentLinkEd).
-
-### [Project 1 Title](project_1_link)
-
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-
-
 #
 
 <details>
@@ -54,8 +37,38 @@ Currently, I am diving into AWS and Docker, looking to expand my expertise in cl
 
 #
 
-<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanceeky&show_icons=true&locale=en" alt="vanceeky" /></p>
+## Featured Projects 💻
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanceeky&" alt="vanceeky" /></p></div>
+### [ParentLinkED](https://github.com/Vanceeky/ParentLinkEd)
+
+![Project 1 Screenshot](https://github.com/Vanceeky/Vanceeky/blob/main/parentlinked.png)
+
+ParentLinkED is a web portal designed for La Salette School, allowing instructors to monitor students' grades, attendance, and communicate directly with them. The platform includes features for posting announcements, managing sections and subjects, and facilitating messaging between instructors and students, enhancing the overall academic experience. You can check out the repository [here](https://github.com/Vanceeky/ParentLinkEd).
+
+### [Event Master](project_1_link)
+
+![Project 2 Screenshot](https://github.com/Vanceeky/Vanceeky/blob/main/event_master.png)
+
+This system allows customers to create events and select various services offered by service providers. It features a user-friendly interface for managing event details, and includes a chat functionality for direct communication with service providers, facilitating an organized event planning process. You can check out the repository [here](https://github.com/Vanceeky/Event-Master).
+
+### [PangasinanExpo](https://github.com/Vanceeky/PangasinanExpo)
+
+![Project 3 Screenshot](https://github.com/Vanceeky/Vanceeky/blob/main/pangasinanexpo.png)
+
+PangasinanExpo is a travel destination and staycation booking system that showcases tourist spots in Pangasinan. Users can view attractions, read testimonials, access maps for directions, and find nearby accommodations for a seamless travel experience. You can check out the repository [here](https://github.com/Vanceeky/PangasinanExpo).
+
+
+
+### [L-NU Infirmary Management System](https://github.com/Vanceeky/L-NU-Infirmary-Management-System)
+
+![Project 4 Screenshot](https://github.com/Vanceeky/Vanceeky/blob/main/infirmary.png)
+
+This system allows customers to create events and select various services offered by service providers. It features a user-friendly interface for managing event details, and includes a chat functionality for direct communication with service providers, facilitating an organized event planning process. You can check out the repository [here](https://github.com/Vanceeky/L-NU-Infirmary-Management-System).
+
+### [L-NU CICS RFID Attendance Monitoring System](https://github.com/Vanceeky/RFID)
+
+![Project 5 Screenshot](https://github.com/Vanceeky/Vanceeky/blob/main/rfid.png)
+
+This system allows customers to create events and select various services offered by service providers. It features a user-friendly interface for managing event details, and includes a chat functionality for direct communication with service providers, facilitating an organized event planning process. You can check out the repository [here](https://github.com/Vanceeky/RFID).
 
 
