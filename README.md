@@ -45,11 +45,15 @@ Currently, I am diving into AWS and Docker, looking to expand my expertise in cl
 
 ParentLinkED is a web portal designed for La Salette School, allowing instructors to monitor students' grades, attendance, and communicate directly with them. The platform includes features for posting announcements, managing sections and subjects, and facilitating messaging between instructors and students, enhancing the overall academic experience. You can check out the repository [here](https://github.com/Vanceeky/ParentLinkEd).
 
+#
+
 ### [Event Master](project_1_link)
 
 ![Project 2 Screenshot](https://github.com/Vanceeky/Vanceeky/blob/main/event_master.png)
 
 This system allows customers to create events and select various services offered by service providers. It features a user-friendly interface for managing event details, and includes a chat functionality for direct communication with service providers, facilitating an organized event planning process. You can check out the repository [here](https://github.com/Vanceeky/Event-Master).
+
+#
 
 ### [PangasinanExpo](https://github.com/Vanceeky/PangasinanExpo)
 
@@ -57,7 +61,7 @@ This system allows customers to create events and select various services offere
 
 PangasinanExpo is a travel destination and staycation booking system that showcases tourist spots in Pangasinan. Users can view attractions, read testimonials, access maps for directions, and find nearby accommodations for a seamless travel experience. You can check out the repository [here](https://github.com/Vanceeky/PangasinanExpo).
 
-
+#
 
 ### [L-NU Infirmary Management System](https://github.com/Vanceeky/L-NU-Infirmary-Management-System)
 
@@ -65,10 +69,12 @@ PangasinanExpo is a travel destination and staycation booking system that showca
 
 This system allows customers to create events and select various services offered by service providers. It features a user-friendly interface for managing event details, and includes a chat functionality for direct communication with service providers, facilitating an organized event planning process. You can check out the repository [here](https://github.com/Vanceeky/L-NU-Infirmary-Management-System).
 
+#
+
 ### [L-NU CICS RFID Attendance Monitoring System](https://github.com/Vanceeky/RFID)
 
 ![Project 5 Screenshot](https://github.com/Vanceeky/Vanceeky/blob/main/rfid.png)
 
 This system allows customers to create events and select various services offered by service providers. It features a user-friendly interface for managing event details, and includes a chat functionality for direct communication with service providers, facilitating an organized event planning process. You can check out the repository [here](https://github.com/Vanceeky/RFID).
 
-
+#
