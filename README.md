@@ -23,9 +23,9 @@
 
 ### [ParentLinkED](project_1_link)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot](https://github.com/Vanceeky/Vanceeky/blob/main/parentlinked.png)
 
-ParentLinkED is a web portal designed for La Salette School, allowing instructors to monitor students' grades, attendance, and communicate directly with them. The platform includes features for posting announcements, managing sections and subjects, and facilitating messaging between instructors and students, enhancing the overall academic experience. You can check out the repository [here]([project_1_repository_link](https://github.com/Vanceeky/ParentLinkEd)).
+ParentLinkED is a web portal designed for La Salette School, allowing instructors to monitor students' grades, attendance, and communicate directly with them. The platform includes features for posting announcements, managing sections and subjects, and facilitating messaging between instructors and students, enhancing the overall academic experience. You can check out the repository [here](https://github.com/Vanceeky/ParentLinkEd).
 
 ### [Project 1 Title](project_1_link)
 
