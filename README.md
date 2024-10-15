@@ -19,7 +19,7 @@
 
 <details>
   <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-  My journey into coding began during my college years, fueled by a passion for problem-solving and technology. I was fascinated by how software could create solutions to real-world issues and improve people's lives.
+My journey into coding began during my college years, fueled by a passion for problem-solving and technology. I was fascinated by how software could create solutions to real-world issues and improve people's lives.
 
 I started with learning the fundamentals of Python, which laid the groundwork for my programming skills. As I delved deeper, I discovered Django, a powerful web framework that allowed me to build dynamic web applications efficiently. This sparked my interest in web development, and I quickly became engrossed in creating user-friendly interfaces and seamless user experiences.
 
