@@ -1,7 +1,7 @@
 <h1 align="">🏄‍♂️ James Ivan </h1>
 **'
-<p align="">👋 I'm a **Junior Python Software Engineer** and **Freelance Web Developer** from the Philippines. I specialize in **Python**, **Django**, and **JavaScript**, building user-friendly and efficient web applications. In addition to my web development skills, I'm experienced with **Git**, **Linux systems**, and **MySQL**. I also have knowledge in **networking** and **cybersecurity**, with certifications in **Cybersecurity Fundamentals**. I've participated in **Capture the Flag (CTF)** challenges, placing **2nd runner-up** in the **HackForGov3 Cyberchallenge**.
-</p>
+👋 I'm a **Junior Python Software Engineer** and **Freelance Web Developer** from the Philippines. I specialize in **Python**, **Django**, and **JavaScript**, building user-friendly and efficient web applications. In addition to my web development skills, I'm experienced with **Git**, **Linux systems**, and **MySQL**. I also have knowledge in **networking** and **cybersecurity**, with certifications in **Cybersecurity Fundamentals**. I've participated in **Capture the Flag (CTF)** challenges, placing **2nd runner-up** in the **HackForGov3 Cyberchallenge**.
+
 
 - 🌱 I’m currently learning **AWS and Docker**
 
