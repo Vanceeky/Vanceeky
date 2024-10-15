@@ -18,17 +18,19 @@
 #
 
 <details>
-  <summary><h3>👨‍💻 My Coding Journey</h3></summary> My journey into coding began during my college years, fueled by a passion for problem-solving and technology. I was fascinated by how software could create solutions to real-world issues and improve people's lives.
+  <summary><h3>👨‍💻 My Coding Journey</h3></summary
 
-I started with learning the fundamentals of Python, which laid the groundwork for my programming skills. As I delved deeper, I discovered Django, a powerful web framework that allowed me to build dynamic web applications efficiently. This sparked my interest in web development, and I quickly became engrossed in creating user-friendly interfaces and seamless user experiences.
+  My journey into coding began during my college years, fueled by a passion for problem-solving and technology. I was fascinated by how software could create solutions to real-world issues and improve people's lives.
 
-Along the way, I expanded my knowledge to include JavaScript and various front-end technologies, which enabled me to enhance my projects further. I explored database management with MySQL, gaining essential skills in data handling and storage. My experience with Git and version control became crucial as I collaborated on projects and contributed to open-source initiatives.
-
-As I honed my skills, I became increasingly aware of the importance of cybersecurity in software development. I pursued certifications in Cybersecurity Fundamentals and participated in Capture the Flag (CTF) challenges, where I achieved 2nd runner-up in the HackForGov3 Cyberchallenge. This experience not only strengthened my technical skills but also ignited a passion for secure coding practices.
-
-I have worked on various projects, both academic and freelance, which allowed me to apply my skills in practical scenarios. My journey has been a mix of challenges and achievements, but each step has taught me valuable lessons about perseverance, creativity, and the importance of continuous learning.
-
-Currently, I am diving into AWS and Docker, looking to expand my expertise in cloud computing and containerization. I am excited about the endless possibilities in tech and eager to contribute to innovative projects that make a difference.
+  I started with learning the fundamentals of Python, which laid the groundwork for my programming skills. As I delved deeper, I discovered Django, a powerful web framework that allowed me to build dynamic web applications efficiently. This sparked my interest in web development, and I quickly became engrossed in creating user-friendly interfaces and seamless user experiences.
+  
+  Along the way, I expanded my knowledge to include JavaScript and various front-end technologies, which enabled me to enhance my projects further. I explored database management with MySQL, gaining essential skills in data handling and storage. My experience with Git and version control became crucial as I collaborated on projects and contributed to open-source initiatives.
+  
+  As I honed my skills, I became increasingly aware of the importance of cybersecurity in software development. I pursued certifications in Cybersecurity Fundamentals and participated in Capture the Flag (CTF) challenges, where I achieved 2nd runner-up in the HackForGov3 Cyberchallenge. This experience not only strengthened my technical skills but also ignited a passion for secure coding practices.
+  
+  I have worked on various projects, both academic and freelance, which allowed me to apply my skills in practical scenarios. My journey has been a mix of challenges and achievements, but each step has taught me valuable lessons about perseverance, creativity, and the importance of continuous learning.
+  
+  Currently, I am diving into AWS and Docker, looking to expand my expertise in cloud computing and containerization. I am excited about the endless possibilities in tech and eager to contribute to innovative projects that make a difference.
 </details>
 
 #
