@@ -75,6 +75,6 @@ This system allows customers to create events and select various services offere
 
 ![Project 5 Screenshot](https://github.com/Vanceeky/Vanceeky/blob/main/rfid.png)
 
-This system allows customers to create events and select various services offered by service providers. It features a user-friendly interface for managing event details, and includes a chat functionality for direct communication with service providers, facilitating an organized event planning process. You can check out the repository [here](https://github.com/Vanceeky/RFID).
+The RFID Attendance Monitoring System records students' attendance based on subjects and time. It enables instructors to view attendance records specific to subjects, ensuring accurate tracking while allowing students to check their attendance status during designated class times. You can check out the repository [here](https://github.com/Vanceeky/RFID).
 
 #
