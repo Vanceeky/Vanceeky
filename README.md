@@ -65,7 +65,7 @@ PangasinanExpo is a travel destination and staycation booking system that showca
 
 ![Project 4 Screenshot](https://github.com/Vanceeky/Vanceeky/blob/main/infirmary.png)
 
-This system allows customers to create events and select various services offered by service providers. It features a user-friendly interface for managing event details, and includes a chat functionality for direct communication with service providers, facilitating an organized event planning process. You can check out the repository [here](https://github.com/Vanceeky/L-NU-Infirmary-Management-System).
+This system manages student and employee health records at LNU. It streamlines online appointment requests, tracks medical certificate requests, and oversees inventory management for medicines. The system aims to improve the efficiency of healthcare services on campus. You can check out the repository [here](https://github.com/Vanceeky/L-NU-Infirmary-Management-System).
 
 #
 
