@@ -24,8 +24,6 @@
 
  I started with learning the fundamentals of Python, which laid the groundwork for my programming skills. As I delved deeper, I discovered Django, a powerful web framework that allowed me to efficiently build robust backend systems for dynamic web applications. This sparked my interest in web development, and I became increasingly engrossed in creating efficient, scalable architectures that integrate seamlessly with front-end technologies.
   
-  Along the way, I expanded my knowledge to include JavaScript and various front-end technologies, which enabled me to enhance my projects further. I explored database management with MySQL, gaining essential skills in data handling and storage. My experience with Git and version control became crucial as I collaborated on projects and contributed to open-source initiatives.
-  
   As I honed my skills, I became increasingly aware of the importance of cybersecurity in software development. I pursued certifications in Cybersecurity Fundamentals and participated in Capture the Flag (CTF) challenges, where I achieved 2nd runner-up in the HackForGov3 Cyberchallenge. This experience not only strengthened my technical skills but also ignited a passion for secure coding practices.
   
   I have worked on various projects, both academic and freelance, which allowed me to apply my skills in practical scenarios. My journey has been a mix of challenges and achievements, but each step has taught me valuable lessons about perseverance, creativity, and the importance of continuous learning.
